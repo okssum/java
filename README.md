@@ -128,7 +128,5 @@
 # 4. 인터페이스
 - 객체의 사용 방법을 정의한 타입
 - 코드 변경 없이 실행 내용과 리턴값을 다양화할 수 있음
-
-
-
-출처: [이것이 자바다](http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937)
+<br><br><br><br><br>
+출처: [이것이 자바다-신용권](http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937)
