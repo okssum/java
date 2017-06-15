@@ -1,0 +1,12 @@
+package chap13.sec02.exam01_none_generic_type;
+
+/* Box 클래스 */
+public class Box {
+	private Object object;
+	public void set(Object object) {
+		this.object = object;
+	}
+	public Object get() {
+		return object;
+	}
+}
